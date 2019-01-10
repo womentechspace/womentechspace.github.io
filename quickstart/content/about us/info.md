@@ -1,3 +1,8 @@
+---
+title: "Info"
+date: 2019-01-09T13:28:44Z
+draft: false
+---
 Free programming workshop for women between the ages of 18 & 100
 Build your first website with Django Girls Belfast on
 Saturday 26th January 2019 at Puppet, Belfast!!
@@ -19,4 +24,4 @@ We are trans-inclusive and welcome all women from all walks of life. Men are wel
 
 If you are female and between the ages of 18-100 you can apply for a pass! You don’t need to know any technical stuff - it is a very informal day and we will have coaches on hand.
 
-We do take our Code of Conduct very seriously and expect everyone in the workshop to abide to it. You can read our Code of Conduct here.
+We do take our Code of Conduct very seriously and expect everyone in the workshop to abide to it. You can read our Code of Conduct [here](http://bit.ly/WomenInTechCoC).
