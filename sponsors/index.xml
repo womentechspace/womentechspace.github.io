@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on Women Tech Space</title>
+    <link>https://womentechspace.github.io/sponsors/</link>
+    <description>Recent content in Sponsors on Women Tech Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2019 13:15:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://womentechspace.github.io/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Current sponsors!</title>
+      <link>https://womentechspace.github.io/sponsors/current/</link>
+      <pubDate>Sat, 09 Mar 2019 13:15:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/sponsors/current/</guid>
+      <description>Puppet have been our sponsor from 2018 and have been incredibly supportive in getting our workshops up and running, providing an amazing space to work from and supplying us with food.
+We could not have done it without them! A huge thanks to you :)
+  June 2018 workshop   Puppet also co-hosted the sold-out Women Tech Space Christmas Party in 2017 which was a huge hit with all the children who attended.</description>
+    </item>
+    
+    <item>
+      <title>Become a sponsor!</title>
+      <link>https://womentechspace.github.io/sponsors/become/</link>
+      <pubDate>Wed, 09 Jan 2019 13:15:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/sponsors/become/</guid>
+      <description>We couldn&amp;rsquo;t be here without the support from amazing people and organisations who have donated money, knowledge and time to help us make this a reality
+We have met some super people around Northern Ireland.
+You are all awesome!
+If you would like to become a sponsor or just get involved in any way, please get in touch.
+Email us at: womentechspace@gmail.com and we can grab a coffee!</description>
+    </item>
+    
+  </channel>
+</rss>
