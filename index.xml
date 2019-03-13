@@ -6,12 +6,17 @@
     <description>Recent content on Women Tech Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 09 Mar 2019 13:15:44 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Sun, 03 Feb 2019 13:35:44 +0000</lastBuildDate>
+>>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
     
 	<atom:link href="https://womentechspace.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Current sponsors!</title>
       <link>https://womentechspace.github.io/sponsors/current/</link>
       <pubDate>Sat, 09 Mar 2019 13:15:44 +0000</pubDate>
@@ -23,6 +28,8 @@ We could not have done it without them! A huge thanks to you :)
     </item>
     
     <item>
+=======
+>>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
       <title>Women Tech Space 2019</title>
       <link>https://womentechspace.github.io/events/march2019/</link>
       <pubDate>Sun, 03 Feb 2019 13:35:44 +0000</pubDate>
@@ -123,6 +130,18 @@ Email us at: womentechspace@gmail.com and we can grab a coffee!</description>
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Current sponsors!</title>
+      <link>https://womentechspace.github.io/sponsors/current/</link>
+      <pubDate>Wed, 09 Jan 2019 13:15:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/sponsors/current/</guid>
+      <description>More info soon!</description>
+    </item>
+    
+    <item>
+>>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
       <title>Women Tech Space</title>
       <link>https://womentechspace.github.io/blog/my-first-post/</link>
       <pubDate>Sat, 03 Nov 2018 13:35:44 +0000</pubDate>

@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://womentechspace.github.io/sponsors/current/</loc>
     <lastmod>2019-03-09T13:15:44+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,6 +11,8 @@
   </url>
   
   <url>
+=======
+>>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
     <loc>https://womentechspace.github.io/events/march2019/</loc>
     <lastmod>2019-02-03T13:35:44+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,6 +76,16 @@
   </url>
   
   <url>
+<<<<<<< HEAD
+=======
+    <loc>https://womentechspace.github.io/sponsors/current/</loc>
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+>>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
     <loc>https://womentechspace.github.io/blog/my-first-post/</loc>
     <lastmod>2018-11-03T13:35:44+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -88,7 +101,11 @@
   
   <url>
     <loc>https://womentechspace.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2019-03-09T13:15:44+00:00</lastmod>
+=======
+    <lastmod>2019-02-03T13:35:44+00:00</lastmod>
+>>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -136,7 +153,11 @@
   
   <url>
     <loc>https://womentechspace.github.io/sponsors/</loc>
+<<<<<<< HEAD
     <lastmod>2019-03-09T13:15:44+00:00</lastmod>
+=======
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+>>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
