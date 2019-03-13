@@ -6,30 +6,23 @@
     <description>Recent content in Sponsors on Women Tech Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Sat, 09 Mar 2019 13:15:44 +0000</lastBuildDate>
-=======
-    <lastBuildDate>Wed, 09 Jan 2019 13:15:44 +0000</lastBuildDate>
->>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
     
 	<atom:link href="https://womentechspace.github.io/sponsors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
       <title>Current sponsors!</title>
       <link>https://womentechspace.github.io/sponsors/current/</link>
       <pubDate>Sat, 09 Mar 2019 13:15:44 +0000</pubDate>
       
       <guid>https://womentechspace.github.io/sponsors/current/</guid>
       <description>Puppet have been our sponsor from 2017 and have been incredibly supportive in getting our workshops up and running, providing an amazing space to work from and supplying us with food.
-We could not have done it without them! A huge thanks to you :)
+We could not have done it without them! A huge thanks to you (especially Christine!) :)
   June 2018 workshop   Puppet also co-hosted the sold-out Women Tech Space Christmas Party in 2017 which was a huge hit with all the children who attended.</description>
     </item>
     
     <item>
-=======
->>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
       <title>Become a sponsor!</title>
       <link>https://womentechspace.github.io/sponsors/become/</link>
       <pubDate>Wed, 09 Jan 2019 13:15:44 +0000</pubDate>
@@ -42,17 +35,5 @@ If you would like to become a sponsor or just get involved in any way, please ge
 Email us at: womentechspace@gmail.com and we can grab a coffee!</description>
     </item>
     
-<<<<<<< HEAD
-=======
-    <item>
-      <title>Current sponsors!</title>
-      <link>https://womentechspace.github.io/sponsors/current/</link>
-      <pubDate>Wed, 09 Jan 2019 13:15:44 +0000</pubDate>
-      
-      <guid>https://womentechspace.github.io/sponsors/current/</guid>
-      <description>More info soon!</description>
-    </item>
-    
->>>>>>> 99ebb74063a6cce16494a9153c0b417cb444eebc
   </channel>
 </rss>
